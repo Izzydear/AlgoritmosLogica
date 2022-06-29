@@ -1,0 +1,15 @@
+VARIAVEIS VISUALG
+
+<nome> : <tipo> 
+
+idade : inteiro
+
+
+* Nome
+* Tipo
+* Valor
+* Endereço
+
+
+<- atribuição =
+a : 32 ------------- a = 32 
